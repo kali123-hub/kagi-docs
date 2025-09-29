@@ -305,7 +305,7 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|MODERATE|[Orion Browser] Incorrect download filename|$100|17-06-2025|
+|MODERATE|[Orion Browser] Incorrect download filename|$100|17-06-2025| hi i am anaveed bug hunter 
 
 
 **Jai Niresh J**
